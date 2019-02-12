@@ -1,0 +1,124 @@
+{
+  "coursesList": [
+    {"courseName": "Choose Your Course", "courseValue": "0"},
+    {"courseName": "BA (Hons) Fashion", "courseValue": "1"},
+    {"courseName": "BA (Hons) Fashion Design", "courseValue": "2"},
+    {"courseName": "BA (Hons) Fashion Enterprise", "courseValue": "3"},
+    {"courseName": "BA (Hons) Graphic Design", "courseValue": "4"},
+    {"courseName": "BA (Hons) Graphic Design and Illustration", "courseValue": "5"},
+    {"courseName": "BA (Hons) Interior Architecture", "courseValue": "6"},
+    {"courseName": "BA (Hons) Interior Design", "courseValue": "7"},
+    {"courseName": "BA (Hons) Product Design and Creative Innovation", "courseValue": "8"},
+    {"courseName": "BA (Hons) Textile Design", "courseValue": "9"},
+
+    {"courseName": "BEng (Hons) Chemical Engineering", "courseValue": "10"},
+    {"courseName": "BEng (Hons) Chemical Engineering (Extended)", "courseValue": "11"},
+    {"courseName": "BEng (Hons) Chemical Engineering with Industry", "courseValue": "12"},
+    {"courseName": "BEng (Hons) Chemical Engineering with Industry (Extended)", "courseValue": "13"},
+    {"courseName": "BEng (Hons) Civil Engineering", "courseValue": "14"},
+
+    {"courseName": "BEng (Hons) Civil Engineering (Extended)", "courseValue": "15"},
+    {"courseName": "BEng (Hons) Civil Engineering with Disaster Management", "courseValue": "16"},
+    {"courseName": "BEng (Hons) Civil Engineering with Disaster Management with Industry", "courseValue": "17"},
+    {"courseName": "BEng (Hons) Civil Engineering with Industry", "courseValue": "18"},
+    {"courseName": "BEng (Hons) Civil Engineering with Industry (Extended)", "courseValue": "19"},
+    {"courseName": "BEng (Hons) Computer Aided Design Engineering", "courseValue": "20"},
+    {"courseName": "BEng (Hons) Computer Engineering and Microelectronics", "courseValue": "21"},
+    {"courseName": "BEng (Hons) Electrical and Electronic Engineering", "courseValue": "22"},
+
+    {"courseName": "BEng (Hons) Electrical and Electronic Engineering (Extended)", "courseValue": "23"},
+    {"courseName": "BEng (Hons) Electrical and Electronic Engineering with Industry", "courseValue": "24"},
+    {"courseName": "BEng (Hons) Electrical and Electronic Engineering with Industry (Extended)", "courseValue": "25"},
+    {"courseName": "BEng (Hons) Instrumentation and Control Engineering", "courseValue": "26"},
+
+    {"courseName": "BEng (Hons) Instrumentation and Control Engineering (Extended)", "courseValue": "27"},
+    {"courseName": "BEng (Hons) Instrumentation and Control Engineering with Industry", "courseValue": "28"},
+    {"courseName": "BEng (Hons) Instrumentation and Control Engineering with Industry (Extended)", "courseValue": "29"},
+    {"courseName": "BEng (Hons) Mechanical Engineering", "courseValue": "30"},
+
+    {"courseName": "BEng (Hons) Mechanical Engineering (Extended)", "courseValue": "31"},
+    {"courseName": "BEng (Hons) Mechanical Engineering with Industry", "courseValue": "32"},
+    {"courseName": "BEng (Hons) Mechanical Engineering with Industry (Extended)", "courseValue": "33"},
+    {"courseName": "BEng Tech (Hons) Civil Engineering", "courseValue": "34"},
+    {"courseName": "BEng Tech (Hons) Electrical and Electronic Engineering", "courseValue": "35"},
+    {"courseName": "BEng Tech (Hons) Mechanical Engineering", "courseValue": "36"},
+    {"courseName": "BEng Tech (Hons) Petroleum and Gas Engineering", "courseValue": "37"},
+    {"courseName": "BSc (Hons) Biochemistry", "courseValue": "38"},
+    {"courseName": "BSc (Hons) Biological Sciences", "courseValue": "39"},
+
+
+    {"courseName": "BSc (Hons) Biological Sciences (Extended)", "courseValue": "40"},
+    {"courseName": "BSc (Hons) Biological Sciences with Professional Experience", "courseValue": "41"},
+
+    {"courseName": "BSc (Hons) Biological Sciences with Professional Experience (Extended)", "courseValue": "42"},
+    {"courseName": "BSc (Hons) Biomedical Science", "courseValue": "43"},
+    {"courseName": "BSc (Hons) Biomedical Science (Extended)", "courseValue": "44"},
+    {"courseName": "BSc (Hons) Chemistry", "courseValue": "45"},
+
+    {"courseName": "BSc (Hons) Chemistry (Extended)", "courseValue": "46"},
+    {"courseName": "BSc (Hons) Chemistry with Professional Experience", "courseValue": "47"},
+    {"courseName": "BSc (Hons) Chemistry with Professional Experience (Extended)", "courseValue": "48"},
+    {"courseName": "BSc (Hons) Computer and Digital Forensics", "courseValue": "49"},
+
+    {"courseName": "BSc (Hons) Computer and Digital Forensics (Extended)", "courseValue": "50"},
+
+    {"courseName": "BSc (Hons) Computer and Digital Forensics with Professional Experience", "courseValue": "51"},
+
+    {"courseName": "BSc (Hons) Computer and Digital Forensics with Professional Experience (Extended)", "courseValue": "52"},
+    {"courseName": "BSc (Hons) Crime Scene Science", "courseValue": "53"},
+
+    {"courseName": "BSc (Hons) Crime Scene Science (Extended)", "courseValue": "54"},
+    {"courseName": "BSc (Hons) Crime Scene Science with Professional Experience", "courseValue": "55"},
+
+    {"courseName": "BSc (Hons) Crime Scene Science with Professional Experience (Extended)", "courseValue": "56"},
+    {"courseName": "BSc (Hons) Environmental Science", "courseValue": "57"},
+
+    {"courseName": "BSc (Hons) Environmental Science (Extended)", "courseValue": "58"},
+    {"courseName": "BSc (Hons) Environmental Science with Professional Experience", "courseValue": "59"},
+
+    {"courseName": "BSc (Hons) Environmental Science with Professional Experience (Extended)", "courseValue": "60"},
+    {"courseName": "BSc (Hons) Food and Nutrition", "courseValue": "61"},
+
+    {"courseName": "BSc (Hons) Food and Nutrition (Extended)", "courseValue": "62"},
+
+    {"courseName": "BSc (Hons) Food and Nutrition with Professional Experience", "courseValue": "63"},
+
+    {"courseName": "BSc (Hons) Food and Nutrition with Professional Experience (Extended)", "courseValue": "64"},
+    {"courseName": "BSc (Hons) Food Science and Engineering", "courseValue": "65"},
+
+    {"courseName": "BSc (Hons) Food Science and Engineering (Extended)", "courseValue": "66"},
+    {"courseName": "BSc (Hons) Food Science and Engineering with Professional Experience", "courseValue": "67"},
+
+    {"courseName": "BSc (Hons) Food Science and Engineering with Professional Experience (Extended)", "courseValue": "68"},
+    {"courseName": "BSc (Hons) Food, Nutrition and Health Science", "courseValue": "69"},
+    {"courseName": "BSc (Hons) Forensic Biology", "courseValue": "70"},
+    {"courseName": "BSc (Hons) Forensic Biology with Professional Experience", "courseValue": "71"},
+    {"courseName": "BSc (Hons) Forensic investigation", "courseValue": "72"},
+    {"courseName": "BSc (Hons) Forensic Science", "courseValue": "73"},
+    {"courseName": "BSc (Hons) Forensic Science (Extended)", "courseValue": "74"},
+    {"courseName": "BSc (Hons) Forensic Science with Professional Experience", "courseValue": "75"},
+    {"courseName": "BSc (Hons) Forensic Science with Professional Experience (Extended)", "courseValue": "76"},
+    {"courseName": "BSc (Hons) Human Biology", "courseValue": "77"},
+    {"courseName": "BSc (Hons) Human Biology (Extended)", "courseValue": "78"},
+    {"courseName": "BSc (Hons) Human Biology with Professional Experience", "courseValue": "79"},
+    {"courseName": "BSc (Hons) Human Biology with Professional Experience (Extended)", "courseValue": "80"},
+    {"courseName": "BSc (Hons) Media and Music Technology", "courseValue": "81"},
+    {"courseName": "BSc (Hons) Pharmaceutical Science", "courseValue": "82"},
+    {"courseName": "BSc (Hons) Product Design", "courseValue": "83"},
+    {"courseName": "CertHE Pre-Medical Science", "courseValue": "84"},
+    {"courseName": "CertHE Pre-Veterinary Science", "courseValue": "85"},
+
+    {"courseName": "BSc (Hons) Animal Science and Welfare", "courseValue": "86"},
+    {"courseName": "BEng (Hons) Aerospace Engineering", "courseValue": "87"},
+    {"courseName": "BSc (Hons) Health Sciences", "courseValue": "88"},
+    {"courseName": "BA (Hons) Fashion Communication and Promotion", "courseValue": "89"},
+    {"courseName": "BA (Hons) Fashion Buying and Merchandising", "courseValue": "90"}
+
+
+
+
+
+
+
+  ]
+}
