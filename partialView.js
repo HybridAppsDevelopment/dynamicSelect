@@ -1,5 +1,5 @@
 //place inside the partial view, within a <script> tag
-
+$('select').formSelect();
 //Detect School select
 $('#schoolName').on('change', function(){
 
