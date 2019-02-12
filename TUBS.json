@@ -1,0 +1,25 @@
+{
+  "coursesList": [
+    {"courseName": "Choose Your Course", "courseValue": "0"},
+    {"courseName": "BA (Hons) Accounting and Finance", "courseValue": "1"},
+    {"courseName": "BA (Hons) Applied Accounting and Business Finance", "courseValue": "2"},
+    {"courseName": "BA (Hons) Business Finance and Accounting", "courseValue": "3"},
+    {"courseName": "BA (Hons) Business Management", "courseValue": "4"},
+    {"courseName": "BA (Hons) Business Management (Evening Delivery)", "courseValue": "5"},
+    {"courseName": "BA (Hons) Business with Law", "courseValue": "6"},
+
+    {"courseName": "BA (Hons) Economics", "courseValue": "7"},
+    {"courseName": "BA (Hons) International Business Management", "courseValue": "8"},
+    {"courseName": "BA (Hons) International Management", "courseValue": "9"},
+    {"courseName": "BA (Hons) Management Practice", "courseValue": "10"},
+
+    {"courseName": "BA (Hons) Marketing", "courseValue": "11"},
+
+    {"courseName": "BA (Hons) Sports Management and Marketing (Teesside University Middlesbrough)", "courseValue": "12"},
+    {"courseName": "BA (Hons) Tourism and Events Management", "courseValue": "13"},
+    {"courseName": "BA (Hons) Fashion", "courseValue": "14"}
+
+
+
+  ]
+}
