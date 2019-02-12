@@ -1,0 +1,36 @@
+<!--the forms within the partial view-->
+
+<!--select the School-->
+<div class="input-field col s6 m6 l6">
+<select id="schoolName" name="schoolName">
+                          <option value="" disabled selected>Choose School <span class="red-text">*</span></option>
+                          <option value="SCMA">Computing, Media & the Arts</option>
+                          <option value="SSED">Science, Engineering & Design</option>
+                          <option value="TUBS">Teesside University Business School</option>
+                          <option value="SSHL">Social Sciences, Humanities & Law</option>
+                          <option value="HSC">Health & Social Care</option>
+                          </select>
+                          <label></label>
+                          <!--<input class="mdl-textfield__input" style="display:inline;max-width:25%;color:#fff;" type="text" id="schoolName" name="schoolName" placeholder="schoolName" />-->
+</div>
+
+
+
+
+  <!--list of course will be appended here-->
+
+                        <div class="input-field col s6 m6 l6">
+
+
+
+
+                          <select id="courseName" name="courseName">
+                          <option value="" disabled selected>Choose Your Course <span class="red-text">*</span></option>
+
+
+
+                          </select>
+                          <label></label>
+                          <!--<input class="mdl-textfield__input" style="display:inline;max-width:25%;color:#fff;" type="text" id="schoolName" name="schoolName" placeholder="schoolName" />-->
+
+                        </div>
