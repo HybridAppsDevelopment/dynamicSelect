@@ -1,0 +1,49 @@
+{
+  "coursesList": [
+    {"courseName": "Choose Your Course", "courseValue": "0"},
+    {"courseName": "BA (Hons) Childhood and Youth Studies", "courseValue": "1"},
+
+    {"courseName": "BA (Hons) Early Childhood Studies", "courseValue": "2"},
+    {"courseName": "BA (Hons) Education Studies", "courseValue": "3"},
+
+    {"courseName": "BA (Hons) English Studies", "courseValue": "4"},
+    {"courseName": "BA (Hons) English Studies with Creative Writing", "courseValue": "5"},
+    {"courseName": "BA (Hons) History", "courseValue": "6"},
+
+    {"courseName": "BA (Hons) Sports Development", "courseValue": "7"},
+
+    {"courseName": "BA (Hons) Working with Children and Young People", "courseValue": "8"},
+
+    {"courseName": "BA (Hons) Young Children and Early Childhood", "courseValue": "9"},
+    {"courseName": "BSc (Hons) Applied Sport and Exercise", "courseValue": "10"},
+    {"courseName": "BSc (Hons) Applied Sports Therapy", "courseValue": "11"},
+    {"courseName": "BSc (Hons) Crime and Investigation", "courseValue": "12"},
+
+    {"courseName": "BSc (Hons) Criminology", "courseValue": "13"},
+    {"courseName": "BSc (Hons) Criminology Joint and Sociology", "courseValue": "14"},
+    {"courseName": "BSc (Hons) Criminology with Law", "courseValue": "15"},
+    {"courseName": "BSc (Hons) Criminology with Psychology", "courseValue": "16"},
+    {"courseName": "BSc (Hons) Criminology with Youth Studies", "courseValue": "17"},
+    {"courseName": "BSc (Hons) Forensic Psychology", "courseValue": "18"},
+    {"courseName": "BSc (Hons) Physical Activity, Exercise and Health", "courseValue": "19"},
+    {"courseName": "BSc (Hons) Police Studies", "courseValue": "20"},
+    {"courseName": "BSc (Hons) Policing", "courseValue": "21"},
+    {"courseName": "BSc (Hons) Psychology", "courseValue": "22"},
+
+    {"courseName": "BSc (Hons) Psychology and Counselling", "courseValue": "23"},
+    {"courseName": "BSc (Hons) Psychology and Criminology", "courseValue": "24"},
+    {"courseName": "BSc (Hons) Psychology with Business", "courseValue": "25"},
+    {"courseName": "BSc (Hons) Psychology with Criminology", "courseValue": "26"},
+    {"courseName": "BSc (Hons) Sociology", "courseValue": "27"},
+
+    {"courseName": "BSc (Hons) Sport and Exercise (Applied Exercise Science)", "courseValue": "28"},
+    {"courseName": "BSc (Hons) Sport and Exercise (Applied Sport Science)", "courseValue": "29"},
+    {"courseName": "BSc (Hons) Sport and Exercise (Coaching Science)", "courseValue": "30"},
+    {"courseName": "BSc (Hons) Sport and Exercise (Sport Studies)", "courseValue": "31"},
+    {"courseName": "BSc (Hons) Sports Therapy", "courseValue": "32"},
+    {"courseName": "BSc (Hons) Sports Therapy and Rehabilitation", "courseValue": "33"}
+
+
+
+  ]
+}
