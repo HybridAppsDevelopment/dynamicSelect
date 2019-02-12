@@ -1,0 +1,54 @@
+{
+  "coursesList": [
+    {"courseName": "Choose Your Course", "courseValue": "0"},
+    {"courseName": "BA (Hons) Social Work", "courseValue": "1"},
+    {"courseName": "BSc (Hons) Dental Hygiene and Dental Therapy", "courseValue": "2"},
+
+    {"courseName": "BSc (Hons) Diagnostic Radiography", "courseValue": "3"},
+
+    {"courseName": "BSc (Hons) Integrated Care Studies", "courseValue": "4"},
+
+    {"courseName": "BSc (Hons) Nursing Studies (Adult) (Pre-Registration)", "courseValue": "5"},
+    {"courseName": "BSc (Hons) Nursing Studies (Child) (Pre-Registration)", "courseValue": "6"},
+    {"courseName": "BSc (Hons) Nursing Studies (Learning Disabilities) (Pre-Registration)", "courseValue": "7"},
+
+    {"courseName": "BSc (Hons) Nursing Studies (Mental Health) (Pre-Registration)", "courseValue": "8"},
+    {"courseName": "BSc (Hons) Occupational Therapy", "courseValue": "9"},
+    {"courseName": "BSc (Hons) Operating Department Practice", "courseValue": "10"},
+    {"courseName": "BSc (Hons) Paramedic Practice", "courseValue": "11"},
+    {"courseName": "BSc (Hons) Paramedic Science", "courseValue": "12"},
+
+    {"courseName": "BSc (Hons) Physiotherapy", "courseValue": "13"},
+
+    {"courseName": "BSc (Hons) Practice Innovation", "courseValue": "14"},
+
+    {"courseName": "BSc (Hons) Practice Innovation (Acute & Critical Care)", "courseValue": "15"},
+    {"courseName": "BSc (Hons) Practice Innovation (Child & Family Care)", "courseValue": "16"},
+    {"courseName": "BSc (Hons) Practice Innovation (Palliative and End of Life Care)", "courseValue": "17"},
+
+    {"courseName": "BSc (Hons) Practice Innovation (Primary and Community Care)", "courseValue": "18"},
+    {"courseName": "BSc (Hons) Specialist Community Public Health Nursing (Health Visiting) (Post Reg)", "courseValue": "19"},
+
+    {"courseName": "BSc (Hons) Specialist Community Public Health Nursing (Occupational Health Nursing) (Post Reg)", "courseValue": "20"},
+
+    {"courseName": "BSc (Hons) Specialist Community Public Health Nursing (School Nursing) (Post Reg)", "courseValue": "21"},
+
+    {"courseName": "BSc (Hons) Specialist Practice in District Nursing", "courseValue": "22"},
+
+    {"courseName": "BSc (Hons) Sport and Exercise (Applied Sport Science)", "courseValue": "23"},
+    {"courseName": "BSc (Hons) Sport and Exercise (Coaching Science)", "courseValue": "24"},
+    {"courseName": "BSc (Hons) Sport and Exercise (Sport Studies)", "courseValue": "25"},
+    {"courseName": "BSc (Hons) Sports Therapy", "courseValue": "26"},
+    {"courseName": "Cert HE Dental Nurse Practice", "courseValue": "27"},
+
+    {"courseName": "Cert HE Effective Practice in Care", "courseValue": "28"},
+    {"courseName": "Certificate of Credit in Advancing from Supplementary to Independent Prescribing (Teesside University Main Campus)", "courseValue": "29"},
+    {"courseName": "Certificate of Credit in Advancing Health and Safety in the Working Environment (Teesside University Main Campus)", "courseValue": "30"},
+    {"courseName": "Certificate of Credit in Developing Medicines Management Skills (Teesside University Main Campus)", "courseValue": "31"},
+    {"courseName": "Certificate of Credit Recognising Hazards and Risks in The Working Environment", "courseValue": "32"},
+    {"courseName": "DClinPsy Clinical Psychology", "courseValue": "33"},
+
+    {"courseName": "Dip He Operating Department Practice", "courseValue": "34"}
+
+  ]
+}
